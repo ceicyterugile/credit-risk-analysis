@@ -14,3 +14,5 @@ This data analytics project focuses on exploratory data analysis (EDA) and clean
 1. **Loan-to-Value Ratio (LTV)**: Analyzing the distribution and frequency of collateral value relative to total loan amount.
 2. **Debt-to-Income (DEBTINC)**: Mapping out distribution thresholds to identify heavily leveraged borrower clusters.
 3. **Loan Default Status (BAD)**: Evaluating class distributions between borrowers who successfully paid off balances versus those who defaulted.
+
+Please, look at the fixed file only, and ignore the first one. I did some changes to this project, and the link to this project is in the Colab notebook: https://colab.research.google.com/drive/1ZtVmUuuFSeCTjdCBGDctxIyqRE2vZQo8#scrollTo=b-tiSpAyfs3I
